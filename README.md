@@ -40,25 +40,26 @@
 **- 지역기반 판매 커뮤니티** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625375-05907e5d-f9c1-45c1-8180-2e694face385.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625360-1d34084d-5201-44c6-b706-dac0cb703e6e.png) 
+![image](https://user-images.githubusercontent.com/59803206/152625990-00c093d7-e0a9-46c2-8a9a-f3af7c75cde9.png)
 <br><br>
-지역 위치를 기반으로 공통된 지역에 속한 사람들과 식재료 판매를 할 수 있다.<br>  
+지역 위치를 기반으로 공통된 지역에 속한 사람들과 식재료 판매를 할 수 있으며 댓글 작성도 가능하다.<br>  
 ![image](https://user-images.githubusercontent.com/59803206/152625958-a20597e9-b9ac-4cd4-8ce5-39e30b2e720a.png)
-![image](https://user-images.githubusercontent.com/59803206/152625897-0a74bea2-fc65-42ae-a151-2e1e5ca099bf.png)
+![image](https://user-images.githubusercontent.com/59803206/152626001-d5a27db9-3579-4b15-beae-b1e18b9e23a1.png)
 <br>
 판매완료되었을 경우, 위와 같이 나타난다.
-<br><br>
+<br><br>  
 
 **- 레시피 추천** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625560-9f5477a1-a2e2-433b-87aa-424a9b4ff500.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625614-0331cc41-b301-48b6-8a58-b6700d2065f0.png)
 <br>  
 레시피 추천이 가능하며 원하는 레시피를 클릭하면 자세한 레시피를 볼 수 있다.
-<br><br>
+<br><br>  
 
 **- 내 정보 / 내 판매** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625716-6173d94f-1f09-44f0-a649-bc2aa5115b13.png) <br>
 나의 정보를 확인할 수 있으며, 판매 내역 버튼을 누르면 판매 내역 확인이 가능하다.  
-<br>
+<br>  
 
 
 ## 사용 기술 <a name="content3"></a>
