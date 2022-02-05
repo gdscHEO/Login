@@ -30,10 +30,10 @@
 ![image](https://user-images.githubusercontent.com/59803206/152625148-fcc1711d-4bf8-4e1d-977e-93c0d2d0c9b7.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625158-87a3ecab-d4fc-43dc-9352-c52da956c45d.png)  
 <br>
-상품과 유통기한을 등록하면 식재료 리스트에 올라간다.
+상품과 유통기한을 등록하면 식재료 리스트에 올라간다.  
 <br>
 
-![image](https://user-images.githubusercontent.com/59803206/152625248-a5e3ffc0-1ccf-4764-8942-7ee12b1f55d9.png)<br>
+![image](https://user-images.githubusercontent.com/59803206/152625248-a5e3ffc0-1ccf-4764-8942-7ee12b1f55d9.png)<br>  
 식재료를 클릭했을 경우, 판매 또는 레시피 추천 기능을 사용할 수 있는 다이얼로그가 나오게 된다<br>
 
 
