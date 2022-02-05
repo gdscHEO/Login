@@ -1,7 +1,7 @@
 # Bium🌱
 ![image](https://user-images.githubusercontent.com/59803206/152623747-7156b167-491c-4b54-967c-aa1d05953496.png)  
 **'비움'**은 음식물 쓰레기의 감소를 목적으로 한 애플리케이션으로 일상생활에서 음식물 쓰레기를 최소화하기 위한 실천을 장려한다.  
-[👉Bium PPT]()
+[👉Bium PPT](https://github.com/gdscHEO/heoproject/files/8007219/HEO.pptx)
 <br>
 
 # 목차
@@ -22,18 +22,42 @@
 ## 구현 기능 <a name="content2"></a>
 **- 로그인 / 회원가입** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625092-45be0f34-3779-497d-ba7e-ef7c3dfc8ff7.png)
-
-![image](https://user-images.githubusercontent.com/59803206/152624895-2a6b5625-84c4-4597-83cd-88bbcab367f6.png)
+![image](https://user-images.githubusercontent.com/59803206/152625133-a7539655-9ccd-4134-9979-7b696c643f76.png)
 <br>
 
 **- 유통기한 관리** <br>
-![image](https://user-images.githubusercontent.com/59803206/152624919-daa5f4f0-1b46-443f-825d-45c2ad8d2d05.png)
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/59803206/152625168-97e0ad0c-aa7e-40f2-8309-e41f88124240.png)
+![image](https://user-images.githubusercontent.com/59803206/152625148-fcc1711d-4bf8-4e1d-977e-93c0d2d0c9b7.png)
+![image](https://user-images.githubusercontent.com/59803206/152625158-87a3ecab-d4fc-43dc-9352-c52da956c45d.png)  
 <br>
+상품과 유통기한을 등록하면 식재료 리스트에 올라간다.
+<br>
+
+![image](https://user-images.githubusercontent.com/59803206/152625248-a5e3ffc0-1ccf-4764-8942-7ee12b1f55d9.png)
+식재료를 클릭했을 경우, 판매 또는 레시피 추천 기능을 사용할 수 있는 다이얼로그가 나오게 된다
+
+**- 지역기반 판매 커뮤니티** <br>
+![image](https://user-images.githubusercontent.com/59803206/152625375-05907e5d-f9c1-45c1-8180-2e694face385.png)
+![image](https://user-images.githubusercontent.com/59803206/152625360-1d34084d-5201-44c6-b706-dac0cb703e6e.png)
+![image](https://user-images.githubusercontent.com/59803206/152625388-10f0820d-ceb1-4cda-920c-afc017ad23a7.png)  
+<br>
+지역 위치를 기반으로 공통된 지역에 속한 사람들과 식재료 판매를 할 수 있다.<br>  
+![image](https://user-images.githubusercontent.com/59803206/152625667-e20c551b-6f45-4116-a916-63033d0e968c.png)
+![image](https://user-images.githubusercontent.com/59803206/152625681-55725d2a-13c9-48c3-91b7-4d43155227be.png)
+<br> 
+판매완료되었을 경우, 위와 같이 나타난다.
+
+**- 레시피 추천** <br>
+![image](https://user-images.githubusercontent.com/59803206/152625560-9f5477a1-a2e2-433b-87aa-424a9b4ff500.png)
+![image](https://user-images.githubusercontent.com/59803206/152625614-0331cc41-b301-48b6-8a58-b6700d2065f0.png)
+<br>  
+레시피 추천이 가능하며 원하는 레시피를 클릭하면 자세한 레시피를 볼 수 있다.
+
+**- 내 정보 / 내 판매** <br>
+![image](https://user-images.githubusercontent.com/59803206/152625716-6173d94f-1f09-44f0-a649-bc2aa5115b13.png) <br>
+나의 정보를 확인할 수 있으며, 판매 내역 버튼을 누르면 판매 내역 확인이 가능하다.  
+<br>
+
 
 ## 사용 기술 <a name="content3"></a>
 - Flutter
