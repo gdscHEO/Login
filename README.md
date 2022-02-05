@@ -21,10 +21,8 @@
 
 ## 구현 기능 <a name="content2"></a>
 **- 로그인 / 회원가입** <br>
-<span>
-  <img src="./login.png" width="240px" />
-</span>
-![image](https://user-images.githubusercontent.com/59803206/152624887-907c63a0-c075-4446-a564-cdb99d5244c8.png)
+![image](https://user-images.githubusercontent.com/59803206/152625092-45be0f34-3779-497d-ba7e-ef7c3dfc8ff7.png)
+
 ![image](https://user-images.githubusercontent.com/59803206/152624895-2a6b5625-84c4-4597-83cd-88bbcab367f6.png)
 <br>
 
