@@ -23,7 +23,7 @@
 **- 로그인 / 회원가입** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625092-45be0f34-3779-497d-ba7e-ef7c3dfc8ff7.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625133-a7539655-9ccd-4134-9979-7b696c643f76.png)
-<br>
+<br><br>
 
 **- 유통기한 관리** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625168-97e0ad0c-aa7e-40f2-8309-e41f88124240.png)
@@ -34,25 +34,27 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/59803206/152625248-a5e3ffc0-1ccf-4764-8942-7ee12b1f55d9.png)<br>  
-식재료를 클릭했을 경우, 판매 또는 레시피 추천 기능을 사용할 수 있는 다이얼로그가 나오게 된다<br>
+식재료를 클릭했을 경우, 판매 또는 레시피 추천 기능을 사용할 수 있는 다이얼로그가 나오게 된다<br><br>  
 
 
 **- 지역기반 판매 커뮤니티** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625375-05907e5d-f9c1-45c1-8180-2e694face385.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625360-1d34084d-5201-44c6-b706-dac0cb703e6e.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625388-10f0820d-ceb1-4cda-920c-afc017ad23a7.png)  
-<br>
+<br><br>
 지역 위치를 기반으로 공통된 지역에 속한 사람들과 식재료 판매를 할 수 있다.<br>  
 ![image](https://user-images.githubusercontent.com/59803206/152625667-e20c551b-6f45-4116-a916-63033d0e968c.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625681-55725d2a-13c9-48c3-91b7-4d43155227be.png)
-<br> 
+<br> <br>
 판매완료되었을 경우, 위와 같이 나타난다.
+<br><br>
 
 **- 레시피 추천** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625560-9f5477a1-a2e2-433b-87aa-424a9b4ff500.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625614-0331cc41-b301-48b6-8a58-b6700d2065f0.png)
 <br>  
 레시피 추천이 가능하며 원하는 레시피를 클릭하면 자세한 레시피를 볼 수 있다.
+<br><br>
 
 **- 내 정보 / 내 판매** <br>
 ![image](https://user-images.githubusercontent.com/59803206/152625716-6173d94f-1f09-44f0-a649-bc2aa5115b13.png) <br>
