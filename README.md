@@ -42,12 +42,7 @@
 ![image](https://user-images.githubusercontent.com/59803206/152625360-1d34084d-5201-44c6-b706-dac0cb703e6e.png) 
 <br><br>
 지역 위치를 기반으로 공통된 지역에 속한 사람들과 식재료 판매를 할 수 있다.<br>  
-![image](https://user-images.githubusercontent.com/59803206/152625667-e20c551b-6f45-4116-a916-63033d0e968c.png)
-![image](https://user-images.githubusercontent.com/59803206/152625681-55725d2a-13c9-48c3-91b7-4d43155227be.png)
-![image](https://user-images.githubusercontent.com/59803206/152625931-66391459-3b03-48ca-8b41-f6b1c2610ec5.png)
-
-<br>  
-
+![image](https://user-images.githubusercontent.com/59803206/152625958-a20597e9-b9ac-4cd4-8ce5-39e30b2e720a.png)
 ![image](https://user-images.githubusercontent.com/59803206/152625897-0a74bea2-fc65-42ae-a151-2e1e5ca099bf.png)
 <br>
 판매완료되었을 경우, 위와 같이 나타난다.
